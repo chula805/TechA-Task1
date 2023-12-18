@@ -32,7 +32,7 @@ Welcome to the Image Slider project! This responsive website showcases an intera
 
 ## 🌐 Live Demo
 
-Slide through the beauty of your images with our live demo -
+Slide through the beauty of your images with our live demo - https://chula805.github.io/TechA-Task1/
 
 ## 📬 Feedback
 
